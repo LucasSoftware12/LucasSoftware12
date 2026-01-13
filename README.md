@@ -1,94 +1,193 @@
-# 👋 ¡Hola! Soy Lucas Medina
+<div align="center">
 
-### Software Engineer | Full Stack Developer
+# LUCAS MEDINA
+### SOFTWARE ENGINEER
 
-Desarrollador Full Stack con más de 5 años de experiencia creando aplicaciones web escalables y modernas. Especializado en **React**, **Next.js**, **Nest.js** y arquitecturas basadas en **microservicios**, con fuerte orientación a la optimización del rendimiento y automatización de procesos.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-softw)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:lucas.softw@hotmail.com)
+[![Location](https://img.shields.io/badge/Location-Corrientes%2C%20Argentina-00C853?style=for-the-badge&logo=google-maps)](https://github.com/LucasSoftware12)
 
-📍 Corrientes, Argentina
-
----
-
-## 🚀 Sobre mí
-
-Soy un apasionado del desarrollo de software con experiencia en proyectos para sectores **financieros**, **logísticos** y **retail**. Me especializo en implementar soluciones robustas y eficientes, trabajando con equipos ágiles e innovadores donde puedo aportar mi conocimiento técnico y seguir aprendiendo nuevas tecnologías.
-
-- 🔭 Actualmente trabajando con **Nest.js**, **PostgreSQL**, **Redis** y **TypeScript**
-- 🌱 Aplicando **Clean Architecture** y **Domain-Driven Design**
-- ⚡ Experiencia en **CI/CD**, **Docker**, **Kubernetes** y **microservicios**
-- 💬 Pregúntame sobre arquitectura de software, backend y desarrollo móvil
+</div>
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## PROFESSIONAL SUMMARY
 
-### Lenguajes
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+Full Stack Software Engineer with **5+ years of experience** designing and implementing scalable web applications and microservices architectures. Proven track record delivering high-performance solutions for **financial, logistics, and retail sectors**. Expert in modern backend development, CI/CD automation, and performance optimization.
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-
-### Mobile
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-### Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+**Core Competencies:** Microservices Architecture • Clean Architecture & DDD • Performance Optimization • CI/CD Automation • Agile Methodologies
 
 ---
 
-## 💼 Experiencia Destacada
+## TECHNICAL EXPERTISE
 
-**Software Engineer @ RedBee** (Nov 2024 – Presente)
-- Diseño e implementación de backend con Clean Architecture y DDD
-- Desarrollo de BFF en Nest.js con integración de servicios en Kotlin
-- CI/CD con GitHub Actions y despliegue automatizado
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Software Engineer @ Konecta** (Jun 2024 – Sep 2024)
-- Desarrollo de microservicios con Nest.js y RabbitMQ
-- Implementación de pipelines CI/CD y despliegues automatizados
+### Backend Development
+```
+✓ Node.js / Nest.js / Express.js
+✓ Microservices Architecture
+✓ RESTful APIs & BFF Pattern
+✓ Message Queuing (RabbitMQ)
+✓ Caching Strategies (Redis)
+✓ Clean Architecture & DDD
+```
 
-**Software Engineer @ Acid Labs** (Nov 2023 – May 2024)
-- Microservicios para Sky Airlines con arquitectura event-driven
-- Optimización de performance en MongoDB
+### Frontend Development
+```
+✓ React.js / Next.js
+✓ Vue.js / Angular
+✓ Server-Side Rendering
+✓ State Management
+✓ Responsive Design
+✓ Performance Optimization
+```
+
+</td>
+<td width="50%" valign="top">
+
+### Database Management
+```
+✓ PostgreSQL (Advanced)
+✓ MongoDB (Optimization)
+✓ MySQL
+✓ Query Optimization
+✓ Database Design
+✓ Data Modeling
+```
+
+### DevOps & Cloud
+```
+✓ Docker / Kubernetes
+✓ CI/CD Pipelines
+✓ GitHub Actions / Azure Pipelines
+✓ AWS / Azure
+✓ Infrastructure as Code
+✓ Monitoring & Logging
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## PROFESSIONAL EXPERIENCE
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSoftware12&show_icons=true&theme=radical)
+### **RedBee** — Software Engineer
+**Nov 2024 – Present** | Servicios y Consultoría IT
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSoftware12&layout=compact&theme=radical)
+• Architected and implemented backend infrastructure for S.G.R. web application applying Clean Architecture and Domain-Driven Design principles  
+• Developed Backend-for-Frontend (BFF) layer using Nest.js with external service integration in Kotlin  
+• Implemented Redis caching layer and optimized PostgreSQL queries, improving response times by 40%  
+• Established CI/CD pipelines using GitHub Actions with automated deployment to Null Platform  
+• Integrated centralized monitoring and metrics tracking for production environments  
+
+**Tech Stack:** `Nest.js` `PostgreSQL` `Redis` `TypeScript` `Jest` `Kotlin` `React.js`
 
 ---
 
-## 📫 Conecta conmigo
+### **Konecta** — Software Engineer
+**Jun 2024 – Sep 2024** | Servicios y Consultoría IT
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-softw)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lucas.softw@hotmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasSoftware12)
+• Designed and developed backend microservices using Nest.js with asynchronous messaging via RabbitMQ  
+• Implemented comprehensive unit testing suite with Jest, achieving 85%+ code coverage  
+• Orchestrated integration between system modules optimizing internal communication protocols  
+• Deployed automated CI/CD pipelines for version control and continuous deployment  
+
+**Tech Stack:** `Nest.js` `PostgreSQL` `RabbitMQ` `TypeScript` `Jest`
 
 ---
 
-⭐️ From [LucasSoftware12](https://github.com/LucasSoftware12)
+### **Acid Labs** — Software Engineer
+**Nov 2023 – May 2024** | Servicios y Consultoría IT
+
+• Developed microservices for Sky Airlines ecosystem implementing event-driven architecture  
+• Built distributed services using Nest.js with RabbitMQ messaging and automated testing frameworks  
+• Optimized MongoDB queries and database performance, reducing latency by 35%  
+• Implemented CI/CD workflows for automated testing and deployment  
+
+**Tech Stack:** `Nest.js` `MongoDB` `RabbitMQ` `TypeScript` `Jest`
+
+---
+
+### **Napse Global** — Full Stack Developer
+**Nov 2021 – Oct 2023** | Servicios y Consultoría IT
+
+• Designed and maintained backend services for CRM 360 and Fiscal Flow projects  
+• Implemented REST APIs and Server-Side Rendering solutions using Node.js and Nest.js  
+• Integrated RabbitMQ message queues with MongoDB and PostgreSQL databases  
+• Automated deployment processes through Azure Pipelines, reducing deployment time by 60%  
+
+**Tech Stack:** `Node.js` `Nest.js` `PostgreSQL` `MongoDB` `RabbitMQ` `Azure` `Next.js`
+
+---
+
+## TECHNICAL SKILLS MATRIX
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | JavaScript • TypeScript • Dart |
+| **Backend** | Node.js • Nest.js • Express.js |
+| **Frontend** | React.js • Next.js • Vue.js • Angular |
+| **Mobile** | React Native • Flutter |
+| **Databases** | PostgreSQL • MongoDB • MySQL • Redis |
+| **Message Brokers** | RabbitMQ |
+| **Testing** | Jest • Unit Testing • Integration Testing |
+| **Cloud & DevOps** | AWS • Azure • Docker • Kubernetes |
+| **CI/CD** | GitHub Actions • Azure Pipelines • GitLab CI |
+| **Version Control** | Git • GitHub • GitLab • Bitbucket |
+| **Tools** | Postman • Firebase • Android Studio |
+
+---
+
+## EDUCATION & CERTIFICATIONS
+
+**Universidad Tecnológica Nacional**  
+📚 Tecnicatura Universitaria en Programación | 2022 - In Progress
+
+**Universidad Tecnológica Nacional**  
+🎓 Professional Full-Stack Developer | 2020 - 2021
+
+**Universidad Tecnológica Nacional**  
+🌐 Intensive English Program | 2017 - 2019
+
+**E.E.T. Nº24 "Simón de Iriondo"**  
+💻 Technical Degree in Public and Personal Computing | 2010 - 2016
+
+---
+
+## GITHUB ANALYTICS
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=LucasSoftware12&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=LucasSoftware12&theme=default&hide_border=true)
+
+</div>
+
+---
+
+## CONTACT INFORMATION
+
+<div align="center">
+
+📧 **Email:** lucas.softw@hotmail.com  
+💼 **LinkedIn:** [linkedin.com/in/lucas-softw](https://www.linkedin.com/in/lucas-softw)  
+🐙 **GitHub:** [github.com/LucasSoftware12](https://github.com/LucasSoftware12)  
+📍 **Location:** Corrientes, Argentina
+
+</div>
+
+---
+
+<div align="center">
+
+**Open to new opportunities and collaborations**
+
+*Specialized in building scalable, high-performance enterprise applications*
+
+</div>
