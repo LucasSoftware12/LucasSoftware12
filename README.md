@@ -79,23 +79,12 @@ Full Stack Software Engineer with **5+ years of experience** designing and imple
 ### **RedBee** — Software Engineer
 **Nov 2024 – Present** | Servicios y Consultoría IT
 
-• Architected and implemented backend infrastructure for S.G.R. web application applying Clean Architecture and Domain-Driven Design principles  
-• Developed Backend-for-Frontend (BFF) layer using Nest.js with external service integration in Kotlin  
-• Implemented Redis caching layer and optimized PostgreSQL queries, improving response times by 40%  
-• Established CI/CD pipelines using GitHub Actions with automated deployment to Null Platform  
-• Integrated centralized monitoring and metrics tracking for production environments  
-
 **Tech Stack:** `Nest.js` `PostgreSQL` `Redis` `TypeScript` `Jest` `Kotlin` `React.js`
 
 ---
 
 ### **Konecta** — Software Engineer
 **Jun 2024 – Sep 2024** | Servicios y Consultoría IT
-
-• Designed and developed backend microservices using Nest.js with asynchronous messaging via RabbitMQ  
-• Implemented comprehensive unit testing suite with Jest, achieving 85%+ code coverage  
-• Orchestrated integration between system modules optimizing internal communication protocols  
-• Deployed automated CI/CD pipelines for version control and continuous deployment  
 
 **Tech Stack:** `Nest.js` `PostgreSQL` `RabbitMQ` `TypeScript` `Jest`
 
@@ -104,22 +93,12 @@ Full Stack Software Engineer with **5+ years of experience** designing and imple
 ### **Acid Labs** — Software Engineer
 **Nov 2023 – May 2024** | Servicios y Consultoría IT
 
-• Developed microservices for Sky Airlines ecosystem implementing event-driven architecture  
-• Built distributed services using Nest.js with RabbitMQ messaging and automated testing frameworks  
-• Optimized MongoDB queries and database performance, reducing latency by 35%  
-• Implemented CI/CD workflows for automated testing and deployment  
-
 **Tech Stack:** `Nest.js` `MongoDB` `RabbitMQ` `TypeScript` `Jest`
 
 ---
 
 ### **Napse Global** — Full Stack Developer
 **Nov 2021 – Oct 2023** | Servicios y Consultoría IT
-
-• Designed and maintained backend services for CRM 360 and Fiscal Flow projects  
-• Implemented REST APIs and Server-Side Rendering solutions using Node.js and Nest.js  
-• Integrated RabbitMQ message queues with MongoDB and PostgreSQL databases  
-• Automated deployment processes through Azure Pipelines, reducing deployment time by 60%  
 
 **Tech Stack:** `Node.js` `Nest.js` `PostgreSQL` `MongoDB` `RabbitMQ` `Azure` `Next.js`
 
