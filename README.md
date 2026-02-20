@@ -104,7 +104,7 @@ Full Stack Software Engineer with **5+ years of experience** designing and imple
 
 ---
 
-## TECHNICAL SKILLS MATRIX
+## TECHNICAL SKILLS
 
 | Category | Technologies |
 |----------|-------------|
